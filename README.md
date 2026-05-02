@@ -1,19 +1,19 @@
-Android Open Source Projects [https://codekk.com](https://p.codekk.com/) for more
+Android Open Source Projects 🌎 [https://codekk.com](p.codekk.com/) for more
 ====================
 
 > Languages: English (current) · [简体中文](./README.zh.md) · [繁體中文](./%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88/README.md)
 
-Welcome to recommend good android open source projects, you can [Commit](https://github.com/Trinea/android-open-project/wiki/Standard-of-adding-and-editing-content "Standard of adding and editing content") directly or tell me at [Colloct Page](https://github.com/Trinea/android-open-project/issues/1). Welcome `Star` and `Fork`  
+Welcome to recommend good android open source projects, you can [Commit](https://github.com/correia-jpv/fucking-android-open-project/wiki/Standard-of-adding-and-editing-content "Standard of adding and editing content") directly or tell me at [Colloct Page](https://github.com/correia-jpv/fucking-android-open-project/issues/1). Welcome `Star` and `Fork`  
 
  
 ### Dev Tools App
 The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly, It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
   
-You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
+You can download it from * 🌎 [DevTools@Google Play](play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
 ![](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)  
 
 
-Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [codekk.com](https://codekk.com/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)  
+Twitter 🌎 [trinea_cn](twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: 🌎 [codekk.com](codekk.com/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)  
 Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Projects include Personalized Views, Common Util Libs, Excellent projects and so on   %40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
 ### Include：  
 >[1. Personalized Views](#1-personalized-views )  
@@ -52,9 +52,9 @@ File,
 [3. Excellent projects](#3-excellent-projects)  
 *&nbsp;&nbsp;more interesting android project*  
 [4. Development and testing tools](#4-development-and-testing-tools)  
-*&nbsp;&nbsp;include [Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools), [Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related), [Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools), [Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
+*&nbsp;&nbsp;include [Development productivity tools](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#first-development-productivity-tools), [Develop self-test related](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#second-develop-self-test-related), [Testing tools](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#third-testing-tools), [Development and build environment](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#fourth-development-and-build-environment), [Others](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#fifth-others)*  
 [5. Outstanding individuals and groups](#4-outstanding-individuals-and-groups)  
-*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
+*&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/correia-jpv/fucking-android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
   
 *Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
 
@@ -202,7 +202,7 @@ Android library of a pair of auto-scroll circular parallax ListViews like the on
 Project Address: https://github.com/jpardogo/ListBuddies   
 Demo Apk: https://play.google.com/store/apps/details?id=com.jpardogo.android.listbuddies   
 Renderings: ![Renderings](https://raw.github.com/jpardogo/ListBuddies/master/art/screenshot_listbuddies_2.png)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>     
 
 1. RecyclerItemDecoration  
 RecyclerItemDecoration allows you to draw divider between items in recyclerview with multiple ViewType without considering items' positions!
@@ -245,7 +245,7 @@ An Android library which implements a glass-like effect for the action bar.
 Project Address: https://github.com/ManuelPeinado/GlassActionBar  
 Demo Apk: https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo  
 Similar App: google music  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Menu   
 1. MenuDrawer   
@@ -297,7 +297,7 @@ Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/m
 Extended FloatingActionMenu lib, with custom menu icon, animation when scrolling.
 Project Address: https://github.com/toanvc/FloatingActionMenu-Animation  
 Renderings: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 4. ViewPager Gallery  
 1. Android-ViewPagerIndicator  
@@ -378,7 +378,7 @@ Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
 
 1. ScreenSlideIndicator
 Lightweight ViewPager Cycle Indicator.
-Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+Project Address: <b><code>&nbsp;&nbsp;&nbsp;203⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;72🍴</code></b> [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager))
 Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
 1. ViewPager3D
@@ -406,12 +406,12 @@ Project Address: https://github.com/LuckyJayce/ViewPagerIndicator
 
 1. ScreenSlideIndicator
 Lightweight ViewPager Cycle Indicadtor.
-Project Address: [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager)
+Project Address: <b><code>&nbsp;&nbsp;&nbsp;203⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;72🍴</code></b> [ScreenSlidePager](https://github.com/LyndonChin/Android-ScreenSlidePager))
 Renderings: ![](https://raw.githubusercontent.com/LyndonChin/Android-ScreenSlidePager/master/screenslidepager.gif)
 
 1. RecyclerViewPager
 A ViewPager implemention inherits from RecyclerView. Support fling operation like gallary and custom fling speed. Support Fragment.
-Project Address: [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager)
+Project Address: <b><code>&nbsp;&nbsp;3505⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;660🍴</code></b> [RecyclerViewPager](https://github.com/lsjwzh/RecyclerViewPager))
 Renderings:
 ![](https://github.com/lsjwzh/RecyclerViewPager/blob/master/fragment.gif)
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
@@ -419,7 +419,7 @@ Renderings:
 1. WoWoViewPager
 A material design Viewpager.Optimized for scrolling app intros or making your CV app. Free and open source.
 WoWoViewPager combines animations and viewpager. When you are swiping viewpager, you are also controlling the frames of the animation. Just like rewinding time.
-Project Address: [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager)
+Project Address: <b><code>&nbsp;&nbsp;2729⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;450🍴</code></b> [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager))
 Renderings: ![](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif)
 
 #### 5. GridView
@@ -444,7 +444,7 @@ A drag-and-drop scrolling grid view for Android, extends from ViewGroup. It can 
 Project Address: https://github.com/thquinn/DraggableGridView  
 Demo Apk: https://github.com/thquinn/DraggableGridView/blob/master/bin/DraggableGridViewSample.apk?raw=true  
 You can customize the width and height of item , and the count of item each line , you can also customize the padding of line . Default value is 20dp.  
-Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
+Project Address: <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [DraggableGridView](https://github.com/andyken/DraggableGridView))  
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
 
@@ -473,7 +473,7 @@ Demo Apk: https://github.com/Trinea/trinea-download/blob/master/draggable-grid-v
 Same with `ListView`. It allows you call `addHeaderView()`, `addFooterView` to add views to GridView.    
 Project Address：https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter    
 Renderings：![Screen Shot](https://raw.githubusercontent.com/liaohuqiu/android-GridViewWithHeaderAndFooter/master/screen-shot.png)    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. ImageView  
 1. PhotoView  
@@ -525,7 +525,7 @@ Project Address: https://github.com/flavioarfaria/KenBurnsView
 Custom shape ImageView using PorterDuffXfermode with paint shapes and SVGs.    
 Project Address: https://github.com/MostafaGazar/CustomShapeImageView     
 Renderings: ![Renderings](https://raw.github.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2013-11-05-23-08-12.png)   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. ProgressBar  
 1. SmoothProgressBar  
@@ -597,7 +597,7 @@ Renderings: ![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a
 MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)
 Project Address:https://github.com/lsjwzh/MaterialLoadingProgressBar
 Renderings: ![Renderings](https://github.com/lsjwzh/MaterialLoadingProgressBar/raw/master/screen.gif)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. LoadingDrawable
 some beautiful android loading drawable, can be combined with any view as the loading view and the progressbar.<br>
@@ -662,7 +662,7 @@ Project Address: https://github.com/RomainPiel/Shimmer-android
 Android experiment showing a sinking TextView.  
 Project Address: https://github.com/RomainPiel/Titanic    
 Renderings: ![Renderings](https://github.com/RomainPiel/Titanic/raw/master/titanic.gif)   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. MoneyTextView  
 A TextView used for inputing and adding money.  
@@ -884,7 +884,7 @@ Project Address: https://github.com/hoang8f/android-segmented-control
 Pull and background rebound effect.  
 Project Address: https://github.com/MarkMjw/PullScrollView    
 Renderings: ![Renderings](https://raw.github.com/MarkMjw/PullScrollView/master/Screenshots/1.png)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. ArcLayout  
 A very simple arc layout library. 
@@ -926,7 +926,7 @@ Renderings:
 
 
 ## 2. Common Util Libs  
-Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
 Speeds up Android development by dependency injection  
 
@@ -955,7 +955,7 @@ Document: http://square.github.io/dagger/
 A small library for building reactive UI components, data binding and event listener injection. Inspired by React.    
 Project Address: https://github.com/zserge/anvil  
 Document: http://anvil.site/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Image Cache  
 1. Android-Universal-Image-Loader  
@@ -981,7 +981,7 @@ Project Address：https://github.com/etao-open-source/cube-sdk
 Demo Apk：https://github.com/liaohuqiu/cube-sdk/raw/master/cube-sdk-sample.apk  
 Document：http://cube-sdk.liaohuqiu.net/  
 Renderings: ![Screen Shot](https://raw.githubusercontent.com/etao-open-source/cube-sdk/dev/screen-shot.png)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Network  
 1. Retrofit  
@@ -1029,7 +1029,7 @@ Document: https://github.com/kevinsawicki/http-request#examples
 RoboSpice is a modular android library that makes writing asynchronous network requests easy  
 Project Address: https://github.com/stephanenicolas/robospice  
 Demo Apk: https://github.com/stephanenicolas/RoboDemo/downloads  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 4. Database  
 1. greenDAO  
@@ -1052,7 +1052,7 @@ Document: http://emilsjolander.github.io/blog/2013/12/18/android-with-sprinkles/
 ORMLite Android functionality used in conjunction with ormlite-core  
 Project Address: https://github.com/j256/ormlite-android  
 Document: http://ormlite.com/sqlite_java_android_orm.shtml   
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 5. Android common lib   
 1. Guava  
@@ -1079,7 +1079,7 @@ Project Address: https://github.com/pyricau/shipfaster
 1. CleanAndroidCode  
 This project is a proof of concept to show how to integrate Dagger, Otto and AndroidAnnotations.  
 Project Address: https://github.com/pyricau/CleanAndroidCode  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 6. Android Compatible low version  
 1. ActionBarSherlock  
@@ -1117,7 +1117,7 @@ Document: https://github.com/BoD/android-switch-backport#using-the-switch
 1. android-datepicker  
 Android 4.0 DatePicker backported to 2.2  
 Project Address: https://github.com/SimonVT/android-datepicker  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 7. Multimedia  
 1. cocos2d-x  
@@ -1175,7 +1175,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=teaonly.droideye
 libpng for Android NDK  
 Project Address: https://github.com/julienr/libpng-android  
 Document: http://www.libpng.org/pub/png/libpng.html  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 1. Image File Selector  
 Project Address: https://github.com/sw926/ImageFileSelector 
@@ -1193,7 +1193,7 @@ An enhanced Guava-based event bus with emphasis on Android support.
 Project Address: https://github.com/square/otto  
 Document: http://square.github.io/otto/  
 Demo Apk: https://play.google.com/store/apps/details?id=de.greenrobot.eventperf  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 #### 9. Sensor  
 1. Great Android Sensing Toolkit  
@@ -1247,7 +1247,7 @@ Project Address: https://github.com/phishman3579/android-heart-rate-monitor
 This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons.  
 Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android  
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. Sensey   
 Android library which makes detecting gestures a breeze.  
@@ -1286,7 +1286,7 @@ lockpattern activity for Android
 Project Address: https://code.google.com/p/android-lockpattern/  
 Demo Apk: https://play.google.com/store/apps/details?id=group.pals.android.lib.ui.lockpattern.demo  
 Document: https://code.google.com/p/android-lockpattern/wiki/QuickUse  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 11. Maps
 1. GraphHopper
@@ -1304,7 +1304,7 @@ Project Address: https://github.com/mapsforge/mapsforge/
 Document: https://github.com/mapsforge/mapsforge/blob/master/docs/Getting-Started-Developers.md  
 Example APK address: https://graphhopper.com/#community  
 Renderings: ![Renderings](https://raw.githubusercontent.com/mapsforge/mapsforge/master/docs/images/screenshot-berlin-1.png)
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 #### 12. Others  
 1. Salvage view  
@@ -1398,7 +1398,7 @@ Demo Apk: https://github.com/Comcast/FreeFlow/releases
 1. Android Gesture Detectors Framework  
 Gesture detector framework for multitouch handling on Android  
 Project Address: https://github.com/Almeros/android-gesture-detectors  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. CacheUtilsLibrary  
 This is a simple Android utils library to write any type of data into cache files and then read them later, using Gson to serialize and deserialize these data.  
@@ -1479,10 +1479,10 @@ Etar is an OpenSource material designed calendar
 Project Address: https://github.com/xsoh/Etar-Calendar  
 Demo Apk: https://play.google.com/store/apps/details?id=ws.xsoh.etar  
 Renderings: ![Etar Calendar](https://raw.githubusercontent.com/xsoh/Etar-Calendar/materialdesign/assets/_pre_prod/publish/v1.0/animation.gif)  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>
 
 ## 4: Development and testing tools  
-Android open source projects about development tools and testing tools.  <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+Android open source projects about development tools and testing tools.  <a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Development productivity tools  
 1. Json2Java  
 Automate processing Java classes to mirror json models.  
@@ -1514,7 +1514,7 @@ Project Address: https://github.com/jgilfelt/android-actionbarstylegenerator
 Online Demo: http://jgilfelt.github.io/android-actionbarstylegenerator/  
 
 1. ButterKnifeZelezny  
-Android Studio plug-in for generating [ButterKnife](https://github.com/JakeWharton/butterknife) injections from selected layout XML.  
+Android Studio plug-in for generating <b><code>&nbsp;25386⭐</code></b> <b><code>&nbsp;&nbsp;4559🍴</code></b> [ButterKnife](https://github.com/JakeWharton/butterknife)) injections from selected layout XML.  
 Project Address: https://github.com/inmite/android-butterknife-zelezny  
 
 1. RoboCoP  
@@ -1526,7 +1526,7 @@ IOS and Android App Icon size generator
 Project Address: http://www.appiconsizes.com/  
 
 1. Gradle Retrolambda Plugin  
-This plugin will automatically build your java or android project with [Retrolambda](https://github.com/orfjackal/retrolambda), giving you lambda goodness on java 6 or 7. It relies on the wonderful retrolambda by Esko Luontola.  
+This plugin will automatically build your java or android project with <b><code>&nbsp;&nbsp;3524⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;226🍴</code></b> [Retrolambda](https://github.com/orfjackal/retrolambda)), giving you lambda goodness on java 6 or 7. It relies on the wonderful retrolambda by Esko Luontola.  
 Project Address: https://github.com/evant/gradle-retrolambda  
 
 1. jsonschema2pojo  
@@ -1534,7 +1534,7 @@ Generates Java types from JSON Schema (or example JSON) and annotates those type
 Project Address: https://github.com/joelittlejohn/jsonschema2pojo  
 Online Demo: http://www.jsonschema2pojo.org/  
 
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Develop self-test related  
 1. Quality Tools for Android  
@@ -1576,13 +1576,13 @@ Project Address: https://github.com/rtyley/android-screenshot-lib
 Extension plugin for Android Lint in Sonar  
 Project Address: https://github.com/SonarCommunity/sonar-android  
 Document: http://docs.codehaus.org/display/SONAR/Android+Plugin  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 3. Testing tools  
 1. Spoon  
 Distributing instrumentation tests to all your Androids.  
 Project Address: https://github.com/square/spoon    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 4. Development and build environment  
 1. Buck  
@@ -1617,7 +1617,7 @@ Project Address: https://github.com/mosabua/maven-android-sdk-deployer
 1. SDK Manager Plugin  
 Gradle plugin which downloads and manages your Android SDK.  
 Project Address: https://github.com/JakeWharton/sdk-manager-plugin  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 5. Others  
 1. ViewServer  
@@ -1647,7 +1647,7 @@ Document: https://github.com/ACRA/acra/wiki/BasicSetup
 Chrome Extension providing enhanced resource navigation for GitHub hosted Android projects  
 Project Address: https://github.com/jgilfelt/android-resource-navigator  
 Online Demo: https://chrome.google.com/webstore/detail/android-resource-navigato/agoomkionjjbejegcejiefodgbckeebo?hl=en&gl=GB  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
   
 ## 4. Outstanding individuals and groups  
 #### 1. Individual  
@@ -1705,7 +1705,7 @@ HomePage: http://www.sephiroth.it/
 Github Address: https://github.com/cyrilmottier  
 Masterpiece: GreenDroid，Polaris  
 HomePage: http://cyrilmottier.com/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 2. Group  
 1. Square  
@@ -1717,7 +1717,7 @@ HomePage: http://square.github.io/
 Github Address: https://github.com/inmite  
 Masterpiece: android-styled-dialogs，android-grid-wichterle，android-selector-chapek  
 HomePage: http://www.inmite.eu/  
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/correia-jpv/fucking-android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 ## License
 
@@ -1734,3 +1734,6 @@ HomePage: http://www.inmite.eu/
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## Source
+<b><code>&nbsp;31831⭐</code></b> <b><code>&nbsp;11854🍴</code></b> [Trinea/android-open-project](https://github.com/Trinea/android-open-project))
